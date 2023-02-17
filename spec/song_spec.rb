@@ -23,7 +23,7 @@ describe Song do
     end
 
     describe '#genre' do 
-      it 'returns the genre' do
+      it 'returns the genre' dosong =
         expect(hit_me.genre).to eq('pop') 
       end
     end
